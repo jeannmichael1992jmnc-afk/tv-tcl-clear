@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Numero de colunas da grade e de slots do dock (4 a 7) -->
+    <integer name="columns">4</integer>
+
+    <!-- Apps do dock, em ordem (nomes de pacote). Os que nao estiverem instalados sao ignorados. -->
+    <string-array name="dock_apps">
+        <item>com.netflix.ninja</item>
+        <item>com.google.android.youtube.tv</item>
+        <item>com.amazon.amazonvideo.livingroom</item>
+        <item>com.disney.disneyplus</item>
+    </string-array>
+</resources>
